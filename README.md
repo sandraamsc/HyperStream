@@ -44,7 +44,7 @@ a web tool for simplifying the growth hacking process, understanding, describing
 - Users are able to run an experiment and track its progress
 - Users are able to create a goal
 - Users are able to set add custom information for an experiment to run i.e experiment type and experiment objectives
-- Users are able to increase their budget, pause experiments, or end them according to expectations.
+- Users are able to increase their budget, pause experiments, or end them according to expectations
 
 
 ## Figma Wireframe
