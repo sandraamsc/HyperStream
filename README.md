@@ -21,6 +21,9 @@ a web tool for simplifying the growth hacking process, understanding, describing
 - [License](#license)
 
 </details>
+## Demo
+
+[View Prototype](https://hyperstream-growth-tool.netlify.app/)
 
 ## Screenshots
 
