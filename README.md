@@ -41,7 +41,11 @@ a web tool for simplifying the growth hacking process, understanding, describing
 
 ## Features
 
-- RUN EXPERIMENT - After succesfully creating a goal, setting the proper information for the experiment to run, like the experiment type, the experiment objectives, and measurements the RUN EXPERIMENT feature is going to run the experiment, and track its behaivor, helping you with, increasing budget, pausing experiments, or definitely closing them according to the expectations.
+- Creating a goal
+
+- Setting the proper information for the experiment to run i.e experiment type and experiment objectives
+
+- This feature runs the experiment, tracks its progress, helps the user increase the budget, pause experiments, or end them according to expectations.
 
 
 ## Figma Wireframe
