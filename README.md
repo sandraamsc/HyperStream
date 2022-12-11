@@ -28,7 +28,8 @@ a web tool for simplifying the growth hacking process, understanding, describing
 [View Prototype](https://hyperstream-growth-tool.netlify.app/)
 
 ## Screenshots
-
+![dashboard](https://user-images.githubusercontent.com/120281830/206928006-6c6b81c4-d5d7-46cb-91fb-a908e75c3d94.PNG)
+![dashboard2](https://user-images.githubusercontent.com/120281830/206928022-443dbc9d-a419-43a1-ba8a-a2837a7d0960.PNG)
 
 ## Technology Stack
 
