@@ -12,6 +12,7 @@ a web tool for simplifying the growth hacking process, understanding, describing
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
+- [Prototype](#prototype)
 - [Screenshots](#screenshots)
 - [Figma Wireframe](#figma-wireframe)
 - [Technology Stack](#technology-stack)
