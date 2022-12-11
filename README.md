@@ -49,7 +49,7 @@ a web tool for simplifying the growth hacking process, understanding, describing
 
 ## Figma Wireframe
 
-[HyperStream wireframes](https://www.figma.com/file/QdZmAGSeF6wA8zsy7Bi12S/Hackathon-design-file?node-id=0%3A1&t=KyRG2mk4TBS6zC1V-0)
+[HyperStream wireframes](https://www.figma.com/file/QdZmAGSeF6wA8zsy7Bi12S/Hackathon-design-file?node-id=5%3A6230&t=qbSvAWaV3XjR0t6g-1)
 
 ## How to use the app
 
