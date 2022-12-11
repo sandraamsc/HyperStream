@@ -37,7 +37,7 @@ const Example = () => {
    
     useEffect(()=>{
         fetchPost();
-    }, [])
+    })
  
  
     return (
