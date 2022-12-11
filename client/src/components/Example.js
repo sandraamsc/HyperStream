@@ -4,8 +4,7 @@ import { collection, addDoc, getDocs } from "firebase/firestore";
 import {db} from '../firebase';
 
 
- 
- 
+
 const Example = () => {
     const [example, setExample] = useState("");
     const [examples, setExamples] = useState([]);

@@ -8,7 +8,7 @@
 
 Coded by www.creative-tim.com
 
- =========================================================
+=========================================================
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
@@ -47,6 +47,8 @@ import { useSoftUIController, setMiniSidenav, setOpenConfigurator } from "contex
 
 // Images
 import brand from "assets/images/logo-ct.png";
+
+import Example from "components/Example";
 
 export default function App() {
   const [controller, dispatch] = useSoftUIController();
@@ -158,7 +160,8 @@ export default function App() {
       </ThemeProvider>
     </CacheProvider>
   ) : (
-    <ThemeProvider theme={theme}>
+      <ThemeProvider theme={theme}>
+        <Example/>
       <CssBaseline />
       {layout === "dashboard" && (
         <>
