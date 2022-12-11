@@ -39,7 +39,7 @@ a web tool for simplifying the growth hacking process, understanding, describing
 | ------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Firebase                                                      | Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale. |
 | React.js                                                      | javaScript library                                                   |
-| Styled Components                                             | a library for React & React Native to write and manage CSS           |
+| Material UI                                             | a simple, customizable, and accessible library of React components           |
 
 ## Features
 
