@@ -95,7 +95,7 @@ function Configurator() {
         px={3}
       >
         <SoftBox>
-          <SoftTypography variant="h5">App Name UI Settings</SoftTypography>
+          <SoftTypography variant="h5">HyperStream UI Settings</SoftTypography>
           <SoftTypography variant="body2" color="text">
             See our dashboard options.
           </SoftTypography>
@@ -211,7 +211,7 @@ function Configurator() {
             variant="outlined"
             fullWidth
           >
-            Join our Community
+            Join the HyperStream Community
           </SoftButton>
         </SoftBox>
 
@@ -224,7 +224,7 @@ function Configurator() {
             <SoftBox mr={1.5}>
               <SoftButton
                 component={Link}
-                href="//twitter.com/intent/tweet?text=Check%20Soft%20UI%20Dashboard%20React%20made%20by%20%40CreativeTim%20%23webdesign%20%23dashboard%20%23react%23mui&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fsoft-ui-dashboard-react"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
                 color="dark"
@@ -235,7 +235,7 @@ function Configurator() {
             </SoftBox>
             <SoftButton
               component={Link}
-              href="https://www.facebook.com/sharer/sharer.php?u=https://www.creative-tim.com/product/soft-ui-dashboard-react"
+              href="#"
               target="_blank"
               rel="noreferrer"
               color="dark"
